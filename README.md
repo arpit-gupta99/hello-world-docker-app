@@ -1,1 +1,1 @@
-# hello-world-docker-application.
+# hello-world-docker-application
